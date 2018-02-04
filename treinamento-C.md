@@ -6,23 +6,20 @@
 
 ### Envolvidos
 
-**Professores:**
-- Thayná e Delson
-- Betão e Tanaka
-- Auau e Stewie
+**Professores (todos da turma T21):**
+- Thayná Baldão e Delson Barros
+- Lucas Alberto e Rodrigo Tanaka
+- Ricardo Macedo, Joel Nascimento e Filipe Guedes
 
 **Auxiliares:**
-- Chico
-- Benny
-- Locutor
-- Gru
+- Chico (T20)
+- Benny (T21)
+- Locutor (T21)
+- Gru (T19)
 
 ### Data(s)
-	Nossas terceira e quarta semanas (primeira e segunda dos bixos da T22)
-
-### Frequência
-	1ª semana: segunda, quarta e sexta
-	2ª semana: segunda, terça e quinta
+	3ª semana (1ª dos bixos): segunda, quarta, sexta (5, 7 e 9/março)
+	4ª semana (2ª dos bixos): segunda, terça e quinta (12, 13 e 15/março)
 	
 ### Local(is)
 	Sala da Rede e Sala da Androids
