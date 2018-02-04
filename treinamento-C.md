@@ -22,7 +22,7 @@
 
 ### Frequência
 	1ª semana: segunda, quarta e sexta
-	2ª semana: terça, quinta e sábado
+	2ª semana: segunda, terça e quinta
 	
 ### Local(is)
 	Sala da Rede e Sala da Androids
