@@ -23,4 +23,4 @@ Por favor, leia [treinamento-avancado.md](https://github.com/ITAbits/treinamento
 Por favor, leia [treinamento-jogos.md](https://github.com/ITAbits/treinamentos/blob/master/treinamento-jogos.md) para detalhes.
 
 ## Contato
-Você pode nos encontrar facilmente no [Facebook](https://www.facebook.com/itabits/)
+Você pode nos encontrar facilmente no [Facebook](https://www.facebook.com/itabits/) ou no seguinte e-mail: itabitsdiretoria@gmail.com.
