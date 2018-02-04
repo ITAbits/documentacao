@@ -21,3 +21,6 @@ Por favor, leia [treinamento-avancado.md](https://github.com/ITAbits/treinamento
 
 - **Treinamento de Desenvolvimento de Jogos:**
 Por favor, leia [treinamento-jogos.md](https://github.com/ITAbits/treinamentos/blob/master/treinamento-jogos.md) para detalhes.
+
+## Contato
+Você pode nos encontrar facilmente no [Facebook](https://www.facebook.com/itabits/)
