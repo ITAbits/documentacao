@@ -10,7 +10,7 @@ Tudo começou no final de 2008 com o objetivo de participar do Simpósio Brasile
 Em 2009, o projeto foi usado para uma disciplina do ITA, demonstrando o apoio da escola, onde um dos veteranos que tinha ganhado 
 essa competição em 2007 estava auxiliando o grupo de alunos do 2º ano. O projeto ficou em 1º lugar na Feira de Projetos relativo 
 àquela disciplina. No fim de 2009, o grupo decidiu expandir e criar uma iniciativa para competições na área de jogos. Com a 
-divulgação da ideia, um membro que era da antiga ITAndrods trouxe a sugestão de criar uma iniciativa que abrangesse diversos 
+divulgação da ideia, um membro que era da antiga ITAndrodis trouxe a sugestão de criar uma iniciativa que abrangesse diversos 
 projetos de computação voltados para competições. A sugestão foi acatada e foi dado início oficial à iniciativa.
 
 Desde então a ITABits tem sido cenário de vários treinamentos, tantos básicos como avançados, desde o ensino de linguagem de 
