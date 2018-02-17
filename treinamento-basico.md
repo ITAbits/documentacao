@@ -20,8 +20,9 @@
 	Nossa quinta semana em diante
 
 ### Frequência
-	1ª semana: segunda, quarta e sexta
-	2ª semana: terça, quinta e sábado
+	1BIM: 3ª a 8ª semana: terça-feira
+	2BIM: 2ª a 6ª semana: terça-feira e quinta-feira
+	
 	
 ### Local(is)
 	Sala da Rede
