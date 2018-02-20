@@ -1,0 +1,29 @@
+Os membros que faziam parte da ITABits em 2017 eram:
+
+- Akuma
+- Alemão
+- Aloysio
+- Auau
+- Baiacu
+- Beyblade
+- Bragais
+- Chico
+- Coimbra
+- Dono
+- Frentista
+- Garça
+- Guima
+- Henriqueh
+- Stewie
+- Leão
+- Bertolino
+- Mexicano
+- Mutante
+- Ocimar
+- Perdidinho
+- Precioso
+- Shark
+- Sustagem
+- Tuzi
+- Dicksiano
+- Ilharco
