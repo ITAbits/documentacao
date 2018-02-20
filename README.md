@@ -26,4 +26,4 @@ Por favor, leia [treinamento-jogos.md](https://github.com/ITAbits/treinamentos/b
 Você pode nos encontrar facilmente no [Facebook](https://www.facebook.com/itabits/) ou no seguinte e-mail: itabitsdiretoria@gmail.com.
 
 ## Efetivo
-Efetivo da iniciativa em 2017: [efetivo-2018](https://github.com/ITAbits/documentacao/blob/master/efetivo-2017.md)
+Efetivo da iniciativa em 2017: [efetivo-2017](https://github.com/ITAbits/documentacao/blob/master/efetivo-2017.md)
