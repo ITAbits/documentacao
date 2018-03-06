@@ -13,9 +13,11 @@
 
 **Auxiliares:**
 - Chico (T20)
+- Henriqueh (T20)
 - Benny (T21)
 - Locutor (T21)
 - Gru (T19)
+- Guima (T19)
 
 ### Data(s)
 	3ª semana (1ª dos bixos): segunda, quarta, sexta (5, 7 e 9/março)
