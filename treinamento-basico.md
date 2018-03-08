@@ -20,7 +20,7 @@
 	Nossa quinta semana em diante
 
 ### Frequência
-	1BIM: 3ª a 8ª semana: terça-feira
+	1BIM: 5ª a 8ª semana: terça-feira
 	2BIM: 2ª a 6ª semana: terça-feira e quinta-feira
 	
 	
@@ -32,56 +32,57 @@
 	
 ### Ementa
 #### 1BIM
-**3a semana**
+**5ª semana**
 - Introdução a Programação Competitiva: como funciona a OBI, Maratona de Programação, contests, online judge,
 problemas, I/O, time limit, memory limit, formatação de respostas
 - Noções de complexidade, notação Big-O.
 Aula:
 - STL linear: pilha, fila, deque, pair
 
-**4a semana**
+**6ª semana**
 - STL em árvore: map, set, priority_queue
 - Busca binária
 - Força bruta: forma iterativa, recursão e backtrack + contest
 
 **contest**
 
-**5a semana**
+**7ª semana**
 - Guloso: diversos problemas
 
-**6a semana**
+**8ª semana**
 - Divisão e conquista
 - Ordenação: merge sort
 
-**7a semana**
+#### 2BIM
+
+**3ª semana - 1a aula**
 - PDs clássicas: troco, mochila, kadane
 - PDs clássicas: LIS
 - PDs não clássicas: exemplos de problemas
 
-**8a semana**
+**3ª semana - 2ª aula**
 - PDs não clássicas + contest
 
 **contest**
 
-#### 2BIM
-**2a semana**
+**4ª semana - 1ª aula**
 - Ponteiros
 - Lista ligada, árvore binária
 
-**3a semana**
+**4ª semana - 2ª aula**
 - Representação de grafos, matriz de adjacência, lista de adjacência
 - DFS: verificar componente conexo
 - BFS: distância mínima em grafo sem peso
 
-**4a semana**
+**5ª semana - 1ª aula**
 - Dijkstra: distância mínima em grafo com peso, implementação com set
 - Prim: MST simples
 
-**5a semana**
+**5ª semana - 2ª aula**
 - BIT / Fenwick Tree
 - Segment Tree
 
-**6a semana**
+**6ª semana - 1ª aula**
 - tira dúvidas + contest
 
 **contest**
