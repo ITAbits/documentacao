@@ -21,14 +21,14 @@
 
 ### Frequência
 	1BIM: 5ª a 8ª semana: terça-feira
-	2BIM: 2ª a 6ª semana: terça-feira e quinta-feira
+	2BIM: 3ª a 6ª semana: terça-feira e quinta-feira
 	
 	
 ### Local(is)
 	Sala da Rede
 	
 ### Horário(s)
-	- 19h
+	19h
 	
 ### Ementa
 #### 1BIM
@@ -44,7 +44,7 @@ Aula:
 - Busca binária
 - Força bruta: forma iterativa, recursão e backtrack + contest
 
-**contest**
+**Contest**
 
 **7ª semana**
 - Guloso: diversos problemas
@@ -63,7 +63,7 @@ Aula:
 **3ª semana - 2ª aula**
 - PDs não clássicas + contest
 
-**contest**
+**Contest**
 
 **4ª semana - 1ª aula**
 - Ponteiros
