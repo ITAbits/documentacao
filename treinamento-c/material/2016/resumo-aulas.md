@@ -1,4 +1,4 @@
-# Resumo das aulas - Treinamento C 2016
+# Resumo de tópicos por aula - Treinamento C 2016
 
 ## AULA 1
 
