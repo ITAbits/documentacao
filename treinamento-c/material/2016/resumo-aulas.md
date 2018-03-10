@@ -48,12 +48,12 @@
 ### Comandos iterativos (loops)
 	Cuidados com loops infinitos
 
-### For
+#### For
 	Estrutura do for: (inicialização; condição; iteração)
 	Comentar quando nao tem algum dos parametros
 	Chaves
 
-### While e Do While
+#### While e Do While
 	Estrutura do while
 	Diferença: while e do while
 
@@ -61,7 +61,7 @@
 
 ### Variáveis indexadas
 
-### Arrays (vetores):
+#### Arrays (vetores):
 	Começa no 0
 	Declaração
 	Atribuição de valores na declaração (apenas na declaração)
@@ -72,7 +72,7 @@
 	Como acessar
 	Cuidado para acessar posições fora dos limites
 
-### Matrizes:
+#### Matrizes:
 	Mais de uma "dimensão"
 	Declaração
 	Atribuição de valores na declaração (apenas na declaração)
@@ -141,7 +141,7 @@
 	- Passagem de parâmetros por valor: é passado apenas o valor da variável, criando uma outra variável local, e alterações nela não mudam a variável original.
 	- Protótipos de funções.
 
-### Recursividade:
+#### Recursividade:
 	- Quando uma função chama ela mesma pra resolver algum problema.
 	- Semelhante a recorrência na matemática.
 	- Deve retornar a solução de um caso simples, para parar a recursão.
