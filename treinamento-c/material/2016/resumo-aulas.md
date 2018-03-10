@@ -2,90 +2,90 @@
 
 ## AULA 1
 
-- Bibliotecas:
+### Bibliotecas:
 	stdio.h - Standard Input and Output Library
-	stdlib.h - Alocação de memória dinâmica, aritmetica de inteiros (abs), system("cls"), numeros aleatórios)
-	math.h - Operações matematicas (cos, sin, exp, log, sqrt, pow, fabs)
-	string.h - Operações com string (strlen, strcmp, strcmpi, strcpy, strcat)
-	ctype.h - Operações com caracteres (tolower, toupper)
+	stdlib.h - AlocaÃ§Ã£o de memÃ³ria dinÃ¢mica, aritmetica de inteiros (abs), system("cls"), numeros aleatÃ³rios)
+	math.h - OperaÃ§Ãµes matematicas (cos, sin, exp, log, sqrt, pow, fabs)
+	string.h - OperaÃ§Ãµes com string (strlen, strcmp, strcmpi, strcpy, strcat)
+	ctype.h - OperaÃ§Ãµes com caracteres (tolower, toupper)
 
-- Declaração de variáveis:
-	Declaração global e local
-	Endereço das variáveis
+### DeclaraÃ§Ã£o de variÃ¡veis:
+	DeclaraÃ§Ã£o global e local
+	EndereÃ§o das variÃ¡veis
 	Tipos de dados (int, float, double, long long, char, bool)
-	Atribuição de valores as variáveis (=)
+	AtribuiÃ§Ã£o de valores as variÃ¡veis (=)
 
-- Comandos de fluxo de dados:
+### Comandos de fluxo de dados:
 	scanf
 	printf
 	getchar
 	Buffer do teclado - fflush(stdin)
 
-- Operações aritméticas
+### OperaÃ§Ãµes aritmÃ©ticas
 	+ - * % /
 	+= -= /= *=
 	++ -- (antes e depois)
 
-- Comandos condicionais
+### Comandos condicionais
 	if, else if, else
-	Comparação (> < >= <= == !=)
-	Operadores lógicos (&& || !)
-	Expressão condicional (condicao ? opção1 : opção2)
+	ComparaÃ§Ã£o (> < >= <= == !=)
+	Operadores lÃ³gicos (&& || !)
+	ExpressÃ£o condicional (condicao ? opÃ§Ã£o1 : opÃ§Ã£o2)
 
-- Exercícios
+### ExercÃ­cios
 	Hello World
-	Exemplos com entrada e saída
+	Exemplos com entrada e saÃ­da
 	Exemplo com buffer do teclado
 	Calculadora
 
 ## AULA 2
 
-- Dúvidas da aula anterior
+### DÃºvidas da aula anterior
 
-- Comandos condicionais (Continuação):
+### Comandos condicionais (ContinuaÃ§Ã£o):
 	Switch case
 
-- Comandos iterativos (loops)
+### Comandos iterativos (loops)
 	Cuidados com loops infinitos
 
-- For
-	Estrutura do for: (inicialização; condição; iteração)
+### For
+	Estrutura do for: (inicializaÃ§Ã£o; condiÃ§Ã£o; iteraÃ§Ã£o)
 	Comentar quando nao tem algum dos parametros
 	Chaves
 
-- While e Do While
+### While e Do While
 	Estrutura do while
-	Diferença: while e do while
+	DiferenÃ§a: while e do while
 
 ## AULA 3
 
-- Variáveis indexadas
+### VariÃ¡veis indexadas
 
-- Arrays (vetores):
-	Começa no 0
-	Declaração
-	Atribuição de valores na declaração (apenas na declaração)
+### Arrays (vetores):
+	ComeÃ§a no 0
+	DeclaraÃ§Ã£o
+	AtribuiÃ§Ã£o de valores na declaraÃ§Ã£o (apenas na declaraÃ§Ã£o)
 		vetor[4] = {1, 2, 3, 4};
 		vetor[4] = {1, 2};
 		vetor[4] = {0};
-	Tamanho deve ser um numero, não uma variavel!
+	Tamanho deve ser um numero, nÃ£o uma variavel!
 	Como acessar
-	Cuidado para acessar posições fora dos limites
+	Cuidado para acessar posiÃ§Ãµes fora dos limites
 
-- Matrizes:
-	Mais de uma "dimensão"
-	Declaração
-	Atribuição de valores na declaração (apenas na declaração)
+### Matrizes:
+	Mais de uma "dimensÃ£o"
+	DeclaraÃ§Ã£o
+	AtribuiÃ§Ã£o de valores na declaraÃ§Ã£o (apenas na declaraÃ§Ã£o)
 		matriz[3][3] = {
 			{1, 2, 3},
 			{1, 2},
 			{1}
 		};
 
-- Exercícios:
-	Revisão de comandos iterativos (calcular número de euler)
+### ExercÃ­cios:
+	RevisÃ£o de comandos iterativos (calcular nÃºmero de euler)
 	Nota dos alunos e media da turma
-	Operações com matrizes:
+	OperaÃ§Ãµes com matrizes:
 		Receber uma matriz
 		Somar matrizes
 		Determinar transposta
@@ -94,97 +94,97 @@
 
 ## AULA 4
 
-- Strings:
-	Declaração (a inicialização so funciona na declaração)
+### Strings:
+	DeclaraÃ§Ã£o (a inicializaÃ§Ã£o so funciona na declaraÃ§Ã£o)
 	Armazenamento (Explicar sobre o '\n')
 	'a' diferente de "a"
 	Escrita (printf com %s)
 	Leitura
-		scanf: não precisa do &, para de ler com enter ou espaço
-		gets: ler com espaços, pega a linha inteira
+		scanf: nÃ£o precisa do &, para de ler com enter ou espaÃ§o
+		gets: ler com espaÃ§os, pega a linha inteira
 	Biblioteca <string.h>
 
-- Funções:
+### FunÃ§Ãµes:
 	strcpy(a, b): copia a string b para a
 	strlen(a): retorna o tamanho de a (sem o \0)
 	strcat(a, b): concatena as string a e b e guarda em a
 	strcmp(a, b): compara lexicograficamente (como em um dicionario) duas string e retorna um numero
 		0: strings iguais
-		< 0: primeira é menor 
-		> 0: primeira é maior
-	strcmpi(a, b): o mesmo da strcmpi, porem não é case-sensitive (difere maiúsculas de minúsculas)
+		< 0: primeira Ã© menor 
+		> 0: primeira Ã© maior
+	strcmpi(a, b): o mesmo da strcmpi, porem nÃ£o Ã© case-sensitive (difere maiÃºsculas de minÃºsculas)
 	itoa: converte int para string
 	atoi: converte string para int
 	atof: converte string para float
 
-Exercícios:
-	Exemplos das funções
+### ExercÃ­cios:
+	Exemplos das funÃ§Ãµes
 	Exemplos de entrada e saida
-	Contar quantas vezes um caractere específico aparece
-	Transformar toda a string em maiúscula/minúscula
+	Contar quantas vezes um caractere especÃ­fico aparece
+	Transformar toda a string em maiÃºscula/minÃºscula
 	Determinar o tamanho da palavra mais longa de uma frase
 
 ## AULA 5
 
-FUNÇÔES (Subprogramação)
+### FUNÃ‡Ã”ES (SubprogramaÃ§Ã£o)
 
-Utilidade:
-	- Eliminação de repetição de código, para processos que precisarão ser usados mais de uma vez.
-	- Maior organização.
-	- Realizar operações específicas.
-	- Útil para recursão.
+#### Utilidade:
+	- EliminaÃ§Ã£o de repetiÃ§Ã£o de cÃ³digo, para processos que precisarÃ£o ser usados mais de uma vez.
+	- Maior organizaÃ§Ã£o.
+	- Realizar operaÃ§Ãµes especÃ­ficas.
+	- Ãštil para recursÃ£o.
 
-Escopo de variável:
-	- Variável global: declarada fora de funções e podem ser acessadas por qualquer outra função abaixo.
-	- Variável local: declarada dentro de uma função e só podem ser usadas dentro dela.
-	- Variável local tem preferência sobre variável global.
-	- Passagem de parâmetros por valor: é passado apenas o valor da variável, criando uma outra variável local, e alterações nela não mudam a variável original.
-	- Protótipos de funções.
+#### Escopo de variÃ¡vel:
+	- VariÃ¡vel global: declarada fora de funÃ§Ãµes e podem ser acessadas por qualquer outra funÃ§Ã£o abaixo.
+	- VariÃ¡vel local: declarada dentro de uma funÃ§Ã£o e sÃ³ podem ser usadas dentro dela.
+	- VariÃ¡vel local tem preferÃªncia sobre variÃ¡vel global.
+	- Passagem de parÃ¢metros por valor: Ã© passado apenas o valor da variÃ¡vel, criando uma outra variÃ¡vel local, e alteraÃ§Ãµes nela nÃ£o mudam a variÃ¡vel original.
+	- ProtÃ³tipos de funÃ§Ãµes.
 
-- Recursividade:
-	- Quando uma função chama ela mesma pra resolver algum problema.
-	- Semelhante a recorrência na matemática.
-	- Deve retornar a solução de um caso simples, para parar a recursão.
-	- A recursão deve se aproximar desse caso simples. Cuidado para loops infinitos.
+### Recursividade:
+	- Quando uma funÃ§Ã£o chama ela mesma pra resolver algum problema.
+	- Semelhante a recorrÃªncia na matemÃ¡tica.
+	- Deve retornar a soluÃ§Ã£o de um caso simples, para parar a recursÃ£o.
+	- A recursÃ£o deve se aproximar desse caso simples. Cuidado para loops infinitos.
 	- Em problemas recursivos, casos maiores do problema dependem da resposta de casos menores.
-	- Forma uma pilha de execução, onde uma função aguarda o retorno da função que chamou para continuar sua operação.
+	- Forma uma pilha de execuÃ§Ã£o, onde uma funÃ§Ã£o aguarda o retorno da funÃ§Ã£o que chamou para continuar sua operaÃ§Ã£o.
 
-Exercícios:
-	- Calcular distância entre dois pontos
-	- Calcular potência de um numero recursivamente
+### ExercÃ­cios:
+	- Calcular distÃ¢ncia entre dois pontos
+	- Calcular potÃªncia de um numero recursivamente
 	- Fatorial Recursivo
-	- Fibonacci Recursivo (comentar que não é eficiente)
+	- Fibonacci Recursivo (comentar que nÃ£o Ã© eficiente)
 	- Torre de Hanoi
 
 ## AULA 6
 
-Define:
+### Define:
 	- Ex: #define PI 3.1415
-	- Não ocupa valor na memória.
-	- Seu valor é substituido antes da compilação.
-	- Não são variáveis.
+	- NÃ£o ocupa valor na memÃ³ria.
+	- Seu valor Ã© substituido antes da compilaÃ§Ã£o.
+	- NÃ£o sÃ£o variÃ¡veis.
 
-Typedef:
+### Typedef:
 	- Redefine o nome de um tipo de dados.
 	- Ex:
 		typedef int numero
 		typedef vetor int[]
 		typedef matriz vetor[]
 
-Tipo Enumerativos (Enum):
-	- Declara um novo tipo de dador e valores a serem atribuídos as variáveis desse tipo.
+### Tipo Enumerativos (Enum):
+	- Declara um novo tipo de dador e valores a serem atribuÃ­dos as variÃ¡veis desse tipo.
 	- Ex:
 		enum nivel {facil, medio, dificil};
 		enum nivel jogo = dificil;
 		enum diaSemana {dom, seg, ter, qua, qui, sex, sab};
 		enum diaSemana hoje, amanha = ter;
-	- Em C, a palavra enum é obrigatória na declaração. Pode-se eliminá-lo com um typedef. Em C++ não ocorre isso.
-	- Os identificadores são constantes inteira (0, 1, ...) e não podem ser alterados em tempo de execução.
-	- Pode-se atribuir valores as constantes, seguindo a sequência.
+	- Em C, a palavra enum Ã© obrigatÃ³ria na declaraÃ§Ã£o. Pode-se eliminÃ¡-lo com um typedef. Em C++ nÃ£o ocorre isso.
+	- Os identificadores sÃ£o constantes inteira (0, 1, ...) e nÃ£o podem ser alterados em tempo de execuÃ§Ã£o.
+	- Pode-se atribuir valores as constantes, seguindo a sequÃªncia.
 		enum diaSemana {dom, seg=3, ter, qua, qui=10, sex, sab};
 
-Estruturas não homogêneas (Structs):
-	- Agrupa várias informações em um novo tipo.
+### Estruturas nÃ£o homogÃªneas (Structs):
+	- Agrupa vÃ¡rias informaÃ§Ãµes em um novo tipo.
 	- Como se fosse um vetor, mas com tipos diferentes.
 	- Ex:
 		typedef enum sexo sexo;
@@ -203,8 +203,8 @@ Estruturas não homogêneas (Structs):
    			sexo sex;
    			Endereco end;	
 		};
-	- Em C, a palavra struct é obrigatória na declaração. Pode-se eliminá-lo com um typedef. Em C++ não ocorre isso.
-	- O acesso é feito através de um operador ponto.
+	- Em C, a palavra struct Ã© obrigatÃ³ria na declaraÃ§Ã£o. Pode-se eliminÃ¡-lo com um typedef. Em C++ nÃ£o ocorre isso.
+	- O acesso Ã© feito atravÃ©s de um operador ponto.
 	- Pode ser inicializada com os valores na ordem correta.
-	- É possível atribuir uma struct para outra diretamente.
-	- É possível fazer fazer vetores e matrizes dessas estruturas.
+	- Ã‰ possÃ­vel atribuir uma struct para outra diretamente.
+	- Ã‰ possÃ­vel fazer fazer vetores e matrizes dessas estruturas.
