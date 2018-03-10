@@ -28,7 +28,7 @@
 	
 ### Horário(s)
 	- Primeiro horário: 18h30
-	- Segundo horário: 21h
+	- Segundo horário: 20h30
 	
 ### Ementa
 
