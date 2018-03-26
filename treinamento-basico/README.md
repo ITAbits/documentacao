@@ -19,7 +19,7 @@
 
 - 1BIM
 
-		6ª semana: segunda e quarta-feira
+		6ª semana: segunda e sexta-feira
 		7ª semana: quinta-feira
 		8ª semana: terça-feira
 
