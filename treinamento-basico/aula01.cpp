@@ -32,7 +32,7 @@ deque<char> deck;        // Um deque de chars
 
 int main(){
 
-    /// Podemos colocar nossos elementos na fila da seguinte forma
+   	/// Podemos colocar nossos elementos na fila da seguinte forma
 	fila.push(10);
 	fila.push(19);
 	fila.push(22);
@@ -52,7 +52,7 @@ int main(){
 	pilha.push(10);
 	pilha.push(19);
 	pilha.push(22);
-	pilha.pop();    // Retirou-se o 22 no caso, pois estava no topo da pilha. Agora quem está no topo é o elemento 19.
+	pilha.pop();      // Retirou-se o 22 no caso, pois estava no topo da pilha. Agora quem está no topo é o elemento 19.
 
 	/// Numa pilha, não se acessa o primeiro, agora o valor em "destaque" é o último adicionado, o que está no topo da pilha
 	int y = pilha.top();
@@ -73,11 +73,11 @@ int main(){
 	/// As demais posições tem lixo (pode ser qualquer coisa)
 
 
-    /// Vamos printar tudo o que tem preenchido no nosso array
-	for(int i = 0; i < arr.size(); i++){  // Note que arr.size retorna o número de elementos atualmente preenchidos do array
-		cout << arr[i] << " ";            // Estou printando o i-ésimo valor do array e colocando um espaço em seguida
+   	/// Vamos printar tudo o que tem preenchido no nosso array
+	for(int i = 0; i < arr.size(); i++){    // Note que arr.size retorna o número de elementos atualmente preenchidos do array
+		cout << arr[i] << " ";          // Estou printando o i-ésimo valor do array e colocando um espaço em seguida
 	}
-	cout << endl;                         // Ao final, dou um \n pra ficar bonitinho
+	cout << endl;                           // Ao final, dou um \n pra ficar bonitinho
 
 
 	/// Eu consigo ver facilmente se qualquer uma das minhas estruturas de dados está vazia ou não
@@ -88,8 +88,7 @@ int main(){
 		cout << "Tem elementos na pilha\n";
 	}
 
-
-    /// Para maiores referências, não deixem de ver todas as funções bizuradas pra cada estrutura de dados que podem facilitar
-    /// e muito a sua vida. Basta procurar no google, pois é difícil saber todas decoradas, realmente espera-se que você comece a
-    /// procurar funções que você esteja atrás de usar nas documentações da linguagem. (http://www.cplusplus.com/, por exemplo)
+	/// Para maiores referências, não deixem de ver todas as funções bizuradas pra cada estrutura de dados que podem facilitar
+	/// e muito a sua vida. Basta procurar no google, pois é difícil saber todas decoradas, realmente espera-se que você comece a
+	/// procurar funções que você esteja atrás de usar nas documentações da linguagem. (http://www.cplusplus.com/, por exemplo)
 }
