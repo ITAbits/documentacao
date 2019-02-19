@@ -6,6 +6,7 @@
 
 **Professores:**
 - Chico (T20)
+- Danilo (T20)
 
 ### Data(s)
 	Nossa quinta semana em diante
