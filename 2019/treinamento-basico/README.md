@@ -11,7 +11,7 @@
 - Rubens (T22)
 
 **Auxiliares:**
-- Chico
+- Chico (T20)
 
 ### Data(s)
 
