@@ -5,15 +5,13 @@
 ### Envolvidos
 
 **Professores:**
-- Primeira parte: Chico + Guima
-- Segunda parte: Bertolino + Henriqueh
-- Terceira parte: Perdidinho + Guima 
+- Danilo (T22)
+- Salsicha (T22)
+- Stitch (T22)
+- Rubens (T22)
 
 **Auxiliares:**
-- Coimbra
-- Precioso
-- Mexicano
-- Leão
+- Chico
 
 ### Data(s)
 

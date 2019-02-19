@@ -6,29 +6,29 @@
 
 ### Envolvidos
 
-**Professores (todos da turma T21):**
-- Thayná Baldão e Delson Barros
-- Lucas Alberto e Rodrigo Tanaka
-- Ricardo Macedo, Joel Nascimento e Filipe Guedes
+**Professores:**
+- Turma 1: Salsicha (T22), Fita (T21), Dilma (T22)
+- Turma 2: Nickolas (T22), Gancho (T22), Montanha (T22)
+- Turma 3: Stich (T22), Danilo (T22) e Lenhador (T22)
 
 **Auxiliares:**
 - Chico (T20)
-- Henriqueh (T20)
-- Benny (T21)
-- Locutor (T21)
-- Gru (T19)
-- Guima (T19)
+- Coimbra (T20)
+- Salsicha (T22)
+- Padawan  (T22)
 
 ### Data(s)
-	3ª semana (1ª dos bixos): segunda, quarta, sexta (5, 7 e 9/março)
-	4ª semana (2ª dos bixos): segunda, terça e quinta (12, 13 e 15/março)
+- 3ª semana (2ª dos bixos): segunda, quarta, sexta (5, 7 e 9/março)
+- 4ª semana (3ª dos bixos): segunda, terça e quinta (12, 13 e 15/março)
 	
 ### Local(is)
-	Sala da Rede e Sala da Androids
+- Sala da ITA Jr.
+- Sala da ITAndroids
+- Sala da Rede
 	
 ### Horário(s)
-	- Primeiro horário: 18h30
-	- Segundo horário: 20h30
+- Primeiro horário: 18h30
+- Segundo horário: 20h30
 	
 ### Ementa
 
@@ -70,4 +70,4 @@
 - Exercícios variados de tudo da semana
 - Correção das listinhas
 - Caso alguma matéria não tenha sido dada, será dada nessa aula
-- Passar projeto final
+- Passar projeto final (opcional)
