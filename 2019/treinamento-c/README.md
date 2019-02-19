@@ -27,8 +27,7 @@
 - Sala da Rede
 	
 ### Horário(s)
-- Primeiro horário: 18h30
-- Segundo horário: 20h30
+- 18h30
 	
 ### Ementa
 
