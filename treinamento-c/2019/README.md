@@ -3,6 +3,7 @@
 ### Organização
 - ITABits
 - ITAndroids
+- ITAJr
 
 ### Envolvidos
 
