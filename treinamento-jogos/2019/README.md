@@ -9,38 +9,12 @@
 
 ### Data(s)
 #### 1º BIM
-**5a semana**
 
-		Terça, 19/03: Aula 1
-		Quinta, 21/03: Aula 2
-		
-**6a semana**
-
-		Terça, 26/03: Aula 3
-		Quinta, 28/03: Aula 4; Abertura do CIG
-	
-**7a semana**
-
-		Terça, 02/04: Aula 5
+		Em construção...
 
 #### 2º BIM
-**1a semana**
 
-		Sexta, 26/04: Ludum Dare 44
-		
-**2a semana**
-
-		Terça, 30/04: Discussão Ludum Dare 44; Boost para o CIG
-		Quinta, 02/04: Aula 6
-		
-**3a semana**
-
-		Terça, 07/05: Aula 7
-		
-**4a semana**
-
-		Terça, 14/05: Aula 8
-		Sábado, 18/05: Entrega do CIG
+		Em construção...
 
 	
 ### Local(is)
