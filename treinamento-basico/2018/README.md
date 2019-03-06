@@ -1,6 +1,6 @@
 ## Treinamento Básico de Algoritmos
 ### Organização
-	ita-bits
+	ITAbits
 
 ### Envolvidos
 
