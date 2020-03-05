@@ -14,7 +14,7 @@ Por favor, ver [treinamento-C](https://github.com/ITAbits/documentacao/tree/mast
 Por favor, ver [treinamento-basico](https://github.com/ITAbits/documentacao/tree/master/treinamento-basico) para detalhes.
 
 - **Treinamento de Arte Digital:**
-Por favor, ver [treinamento-C](https://github.com/ITAbits/documentacao/tree/master/treinamento-arte) para detalhes.
+Por favor, ver [treinamento-arte](https://github.com/ITAbits/documentacao/tree/master/treinamento-arte) para detalhes.
 
 - **Treinamento Avançado de Algoritmos:**
 Por favor, ver [treinamento-avancado](https://github.com/ITAbits/documentacao/tree/master/treinamento-avancado) para detalhes.
