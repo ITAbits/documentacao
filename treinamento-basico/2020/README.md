@@ -81,7 +81,7 @@
 
 - Aula 13
 
-    		- Operações bit-wise e bitmask.
+		- Operações bit-wise e bitmask.
 
 - Aula 14
 
