@@ -45,7 +45,7 @@
 
 - Aula 04
 
-		- Força bruta: forma iterativa, recursão e backtrack.
+		- String, Vector, Força bruta: forma iterativa, recursão e backtrack.
 
 - Aula 05
 
